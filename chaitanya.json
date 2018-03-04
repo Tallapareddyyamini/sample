@@ -1,0 +1,44 @@
+{
+  "basics":{
+    "name":"sathya",
+     "phone":"7416703975",
+     "photo":"image.png",
+     "email":"durgachaitanya050@gmail.com"
+   },
+   "education":[
+     {
+     "course":"b.tech(computer science and engineering)",
+      "college":"gudlavalleru engineering college",
+      "data":["2015-2019","75%","JNTU-K"]
+    },
+    {
+     "course":"inter(MPC)",
+     "college":"sri chaaitanya jr college",
+      "data":["2013-2015","80%"]
+    },
+    {
+      "course":"ssc",
+      "school":"sri chaitanya school",
+      "data":["2012-2013","95%"]
+    }
+  ],
+    "skills":
+    [
+      {
+        "name":"Languages known",
+        "info":["c","python","javascript"]
+      },
+      {
+        "name":"operating system",
+        "info":["Linux","window","fedora","Unix"]
+      },
+      {
+        "name":"Libraries",
+        "info":["Bootstarps","jquert"]
+      },
+      {
+        "name":"Data Bases",
+        "info":["MYSQL","pl/sql","oracle"]
+      }
+    ]
+}
